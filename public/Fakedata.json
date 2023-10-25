@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Nike",
+    "image": "https://t3.ftcdn.net/jpg/05/69/57/18/240_F_569571832_sufAZLcdK00zbbChUIwqKyaxzEwsW72o.jpg"
+  },
+  {
+    "name": "Adidas",
+    "image": "https://t4.ftcdn.net/jpg/05/40/36/65/240_F_540366569_ynvfXlNviEgkqNkWWejsKEIq4UzRYFYm.jpg"
+  },
+  {
+    "name": "Gucci",
+    "image": "https://t3.ftcdn.net/jpg/05/48/72/52/240_F_548725238_xzNuAsCSrbz8ESmffsJH4N9LiiRXhwmS.jpg"
+  },
+  {
+    "name": "Zara",
+    "image": "https://t3.ftcdn.net/jpg/05/25/40/96/240_F_525409615_0YvGM7dnGM2gL69XVq5uYH1yvnyLnZke.jpg"
+  },
+  {
+    "name": "H&M",
+    "image": "https://t3.ftcdn.net/jpg/04/30/68/20/240_F_430682035_rJPYZlryJdoq6enihFKpt2rH0mtTaJxH.jpg"
+  },
+  {
+    "name": "levi's",
+    "image": "https://t3.ftcdn.net/jpg/04/44/48/76/240_F_444487636_yCvab1LpCX2hXutDopa9eI2Rkp3eyH7W.jpg"
+  }
+]
