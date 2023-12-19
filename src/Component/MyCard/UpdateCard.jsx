@@ -39,15 +39,15 @@ const UpdateCard = () => {
       .then((res) => res.json())
       .then((card) => {
         console.log(card);
-        if (card.modifiedCount) {
-          Swal.fire({
-            position: "center",
-            icon: "success",
-            title: "Update product SUCCESSFULLY",
-            showConfirmButton: false,
-            timer: 1500,
-          });
-        }
+          if (card.modifiedCount) {
+            Swal.fire({
+              position: "center",
+              icon: "success",
+              title: "Update product SUCCESSFULLY",
+              showConfirmButton: false,
+              timer: 1500,
+            });
+          }
       })
       .catch((error) => {
         console.log(error);
